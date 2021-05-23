@@ -1,0 +1,60 @@
+
+CTRL-C = STOP les boucles
+
+sudo = Super Administrateur
+
+cd = Changer de dossier (Tab pour finaliser le nom écrie)
+ls = Dire ou on est
+
+mkdir = Créé un dossier
+rmdir = Déliter un dossier vide 
+rm -rf = Délite Dossier plein
+cp = copier fichier (cp fichier.txt /home/...) ou (cp fichier.txt fichier1.txt)
+mv = Déplacer le fichier (mv fichier.txt /home/...)
+
+ifconfig = Configuration Réseau
+ping = Temps de réponse
+
+ps-ef = Afficher le # des processus
+kill # = Ferme les processus
+
+whoami = Ça nous donne le nom 
+
+ls -a (voir les fichier cacher)
+source ~/.bashrc
+nano .bashrc = Ajouter des alias
+alias Nom='Tache a effectuer ; autre tache'
+unalias Nom = Délite l alias 
+(partir un pyton partout)
+
+ifconfig > config.txt (met le résulat dans le fichier txt)
+cat fichier.txt = ouvre ficher texte dans konsol
+
+Connextion ssh:
+ssh pi@192.168.1.136
+
+Visuel Studio Code (Add in) 
+Ctrl+Shift + p
+remote ssh
+conneect to Host...
+
+echo $PATH 
+ajouter le dossier dans le path
+pour faire les Shebang
+
+cronjob  Aller voir sur Google
+
+--GITHUB--
+
+clone - Faire une copie du git vers le dossier actuel
+
+git pull - Faire la mise a jour du fichier ou du projet
+
+git add ou git add * (Pour toute adder du dossier)- Pour ajouter a la liste d'envoie
+
+git commit -m "Informer des mise a jour" Faire un envoie local ( Faire un block compresser )
+
+git push - Envoyer dans le répertoire du github le dossier voulu
+
+----
+Git init - pour faire une nouvelle vesion d'un projet.

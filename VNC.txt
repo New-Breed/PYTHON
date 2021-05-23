@@ -1,0 +1,12 @@
+
+
+Connection VNC sur PC vers Raspberry pi.
+
+Sudo apt-get update
+Sudo apt-get upgrade
+
+Dans configuration cocher les Cases (VNC - SSH - GPIO - ETC)
+Ouvrir VNC dans Raspberry pi et mettre mot de pass
+Voir le ip 
+
+Connecter à partir d'un autre pc avec ce ip et le mot de pass
